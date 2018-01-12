@@ -116,7 +116,7 @@ public class GeofencingService extends Service implements OnSuccessListener, OnF
                 .setRequestId("Test1")
                 // Set the circular region of this geofence.
                 .setCircularRegion(
-                        50.83535,
+                        50.03535,
                         4.33139,
                         100
                 )
